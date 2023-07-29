@@ -52,5 +52,10 @@ Work with the innocent Terrorists to find the Traitors.";
                 panel.Delete();
             }
         }
+
+        public override bool ShouldWin()
+        {
+            return false;
+        }
     }
 }
