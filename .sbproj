@@ -1,0 +1,25 @@
+{
+  "Title": "Seance (TTT role)",
+  "Type": "addon",
+  "Org": "cutie",
+  "Ident": "seance",
+  "Tags": null,
+  "Schema": 1,
+  "HasAssets": false,
+  "AssetsPath": "",
+  "Resources": null,
+  "MenuResources": null,
+  "HasCode": true,
+  "CodePath": "/code/",
+  "PackageReferences": [],
+  "EditorReferences": null,
+  "Metadata": {
+    "CsProjName": "",
+    "PrimaryAsset": "",
+    "PhysicsMins": "-1,-1,-1",
+    "PhysicsMaxs": "1,1,1",
+    "RenderMins": "-1,-1,-1",
+    "RenderMaxs": "-1,-1,-1",
+    "ParentPackage": "thieves.terrortown"
+  }
+}
