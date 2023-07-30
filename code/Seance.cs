@@ -47,6 +47,8 @@ Use the information the dead give you and work with the other innocent Terrorist
         [ClientRpc]
         public static void RemoveOrbFromPlayerRpc(TerrorTown.Player ply)
         {
+            if (ply == null) return;
+
             if( Seances.TryGetValue(ply, out WorldIndicatorPanel panel))
             {
                 panel.Delete();

@@ -10,7 +10,7 @@ Enable the `Seance Role (TTT)` (`cutie.seance`) addon with your game.
 
 ## Settings
 
-`cutie_players_per_seance` - Assign one seance per specified player count. For example, setting this to 10 will mean that there will be one seance per 7 players. The default is 7.
+`cutie_players_per_seance` - Assign one seance per specified player count. For example, setting this to 7 will mean that there will be one seance per 7 players. The default is 7.
 
 ## License
 
