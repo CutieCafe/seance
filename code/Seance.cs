@@ -41,7 +41,7 @@ Work with the innocent Terrorists to find the Traitors.";
         [ClientRpc]
         public static void AddOrbToPlayerRpc(TerrorTown.Player ply)
         {
-            Seances[ply] = new WorldIndicatorPanel(new List<string>() { "Seance" }, dangerousTarget: ply, color: Color.Yellow, onlyWhenAlive: true);
+            Seances[ply] = new WorldIndicatorPanel(new List<string>() { "Seance" }, dangerousTarget: ply, color: Color.Yellow, onlyWhenAlive: true, icon: "ui/ghost.png");
         }
 
         [ClientRpc]

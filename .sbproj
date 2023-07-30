@@ -5,7 +5,7 @@
   "Ident": "seance",
   "Tags": "ttt role seance",
   "Schema": 1,
-  "HasAssets": false,
+  "HasAssets": true,
   "AssetsPath": "",
   "Resources": null,
   "MenuResources": null,
