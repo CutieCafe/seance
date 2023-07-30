@@ -2,7 +2,7 @@
 
 You are an innocent Seance! You can see indicators of dead people.
 
-Work with the innocent Terrorists to find the Traitors.
+Use the information the dead give you and work with the other innocent Terrorists to find the Traitors.
 
 ## Use
 
